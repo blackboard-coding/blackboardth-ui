@@ -1,0 +1,18 @@
+{
+  "name": "react-blackboardth-ui",
+  "version": "1.0.1",
+  "main": "src/index.js",
+  "repository": "https://github.com/blackboard-coding/blackboardth-ui.git",
+  "author": "Nutthapat Piasangka <n.devs260340@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "@material-ui/system": "^4.9.14",
+    "@material-ui/utils": "^4.10.2",
+    "clsx": "^1.1.1",
+    "prop-types": "^15.7.2",
+    "react": "^16.13.1",
+    "react-dom": "^16.13.1",
+    "react-is": "^16.13.1",
+    "react-transition-group": "^4.4.1"
+  }
+}
